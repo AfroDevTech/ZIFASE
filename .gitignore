@@ -1,0 +1,73 @@
+# Compiled files
+*.pyc
+*.pyo
+*.so
+*.o
+*.a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+*.env
+venv/
+env/
+.venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Flutter
+*.pub/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+.build/
+.dart_tool/
+
+# iOS
+*.xcworkspace/
+Pods/
+Podfile.lock
+
+# Android
+*.iml
+.gradle/
+local.properties
+
+# Test coverage
+coverage/
+*.lcov
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Secrets
+*.pem
+*.key
+*.crt
+secrets/
